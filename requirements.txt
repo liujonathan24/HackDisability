@@ -6,3 +6,5 @@ pydantic==2.6.2
 python-decouple==3.8
 streamlit==1.31.1
 yt_dlp==2023.12.30
+llama_index.multi_modal_llms.gemini 
+llama_index.core
