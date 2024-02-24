@@ -9,11 +9,10 @@ from PIL import Image
 from decouple import config
 import secrets
 
-import pandas as pd
-
 import streamlit as st
 
-GOOGLE_API_KEY = config("GOOGLE_API_KEY")
+
+GOOGLE_API_KEY = "AIzaSyAjzI_qNEW16dBb_we3Ptky4eU8bZYh3S0"
 MODEL_NAME = "models/gemini-pro-vision"
 
 
