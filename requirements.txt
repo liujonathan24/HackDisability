@@ -1,0 +1,8 @@
+ffmpeg==1.4
+llama_index==0.10.12
+pandas==2.2.1
+Pillow==10.2.0
+pydantic==2.6.2
+python-decouple==3.8
+streamlit==1.31.1
+yt_dlp==2023.12.30
